@@ -1,8 +1,4 @@
-*
-{
-    margin: 0;
-    padding: 0;
-}
+
 .page
 {
     width: 800px;
@@ -12,7 +8,7 @@
 }
 .conteiner
 {
-    width: 650px;
+    width: 700px;
     margin: 0 auto;
 
     background-color: white;
@@ -22,34 +18,35 @@
     font-family: Arial;
     line-height: 28px;
 }
-.header
+.banner
 {
-    width: 650px;
+    width: 700px;
     height: 100%;
     margin-bottom: 25px;
 }
 .wrapper
 {
-    width: 650px;
-    margin-left: 12px;
+    width: 600px;
+    margin-left: 54px;
 }
 .text_center
 {
     text-align: center;
 }
-.photo_one
+
+.gynecologist
 {
     float: left;
 
-    width: 280px;
+    width: 260px;
     height: 280px;
     margin-right: 60px;
 }
-.photo_one img
+.gynecologist img
 {
     width: 280px;
 }
-.photo_two
+.teeth
 {
     float: left;
 
@@ -57,7 +54,7 @@
     height: 280px;
     margin-bottom: 30px;
 }
-.photo_two img
+.teeth img
 {
     width: 280px;
 }
@@ -73,34 +70,30 @@
     font: bold 12px Arial;
 
     width: 280px;
-    height: 30px;
-    margin-top: 30px;
-    margin-bottom: 20px;
+    height: 40px;
 
     color: white;
     border: none;
     border-radius: 5px;
     background-color: rgba(214, 26, 12, .71);
 }
-.photo_three
+.cardio_neurologist
 {
     float: left;
-
-    width: 216px;
+    width: 200px;
     height: 120px;
-    margin-top: 75px;
+    margin-top: 90px;
 }
-.photo_three img
+.cardio_neurologist img
 {
-    width: 194px;
+    width: 190px;
 }
 .button_three
 {
     font: bold 12px Arial;
 
     width: 194px;
-    height: 30px;
-    margin-top: 30px;
+    height: 35px;
     margin-bottom: 20px;
 
     color: white;
@@ -116,10 +109,10 @@
 {
     font: bold 16px Arial;
 
-    width: 625px;
+    width: 600px;
     height: 40px;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 
     color: white;
     border: none;
@@ -131,8 +124,7 @@
     font: 10px Arial;
     line-height: 20px;
 
-    margin: 20px 20px;
-
+    margin-top: 45px;
     text-align: center;
 
     color: white;
