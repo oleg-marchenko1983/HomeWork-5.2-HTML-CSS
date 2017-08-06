@@ -39,7 +39,6 @@
     float: left;
 
     width: 260px;
-    height: 280px;
     margin-right: 60px;
 }
 .gynecologist img
@@ -51,7 +50,6 @@
     float: left;
 
     width: 280px;
-    height: 280px;
     margin-bottom: 30px;
 }
 .teeth img
@@ -80,9 +78,7 @@
 .cardio_neurologist
 {
     float: left;
-    width: 200px;
-    height: 120px;
-    margin-top: 90px;
+    width: 200px;;
 }
 .cardio_neurologist img
 {
@@ -101,10 +97,7 @@
     border-radius: 5px;
     background-color: rgba(214, 26, 12, .71);
 }
-.text_footer
-{
-    margin-top: 309px;
-}
+
 .button_footer
 {
     font: bold 16px Arial;
@@ -124,7 +117,6 @@
     font: 10px Arial;
     line-height: 20px;
 
-    margin-top: 45px;
     text-align: center;
 
     color: white;
